@@ -1,0 +1,4 @@
+[submodule "common/test"]
+	path = common/test
+	url = git@github.com:Hu1-Li/TestSubmodule.git
+	branch = test
